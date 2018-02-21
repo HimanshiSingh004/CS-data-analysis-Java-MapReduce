@@ -9,7 +9,7 @@ private Text outvalue = new Text();
 	@Override
 	protected void map(LongWritable key, Text value,Context context)
 			throws IOException, InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stu
 		String records = value.toString().trim();
 		String[] fields = records.split(",");
 		outkey.set(fields[2]);
