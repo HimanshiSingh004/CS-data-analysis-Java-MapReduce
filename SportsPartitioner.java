@@ -15,22 +15,5 @@ public class SportsPartitioner extends Partitioner<Text,Text> {
 		return 1;
 		else
 		return 2;
-	}
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }
