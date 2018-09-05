@@ -13,7 +13,8 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 		/**
 		 * @param args
-		 * @throws IOException 
+		 * @throws IOException  
+		 
 		 **/
 		public static void main(String[] args) throws IOException {
 			// TODO Auto-generated method stub
